@@ -22,7 +22,7 @@ section::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(rgb(142, 20, 179), rgb(211, 19, 211));
+  background: linear-gradient(#6200B3, #6200B3);
   clip-path: circle(30% at right 70%);
 }
 
@@ -33,7 +33,7 @@ section::after {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(#3cff00, #03ff42);
+  background: linear-gradient(#00E8FC, #00E8FC);
   clip-path: circle(20% at 10% 10%);
 }
 
