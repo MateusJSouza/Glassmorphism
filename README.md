@@ -11,7 +11,9 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MateusJSouza/Glassmorphism" alt="Tamanho do repositório">
   </a>
 
-  <a href="https://www.codacy.com/gh/MateusJSouza/Glassmorphism/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/Glassmorphism&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/6fd97796eeb849c08753294349a6abfb"></a>
+  <a href="https://www.codacy.com/gh/MateusJSouza/Glassmorphism/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/Glassmorphism&amp;utm_campaign=Badge_Grade">
+    <img src="https://app.codacy.com/project/badge/Grade/6fd97796eeb849c08753294349a6abfb">
+  </a>
 
 
   <a href="https://github.com/MateusJSouza/Glassmorphism/issues">
