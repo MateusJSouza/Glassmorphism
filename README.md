@@ -4,27 +4,26 @@
 
 <p align="center">
   <a href="#language">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MateusJSouza/Glassmorphism" alt="Linguagem mais utilizada"/>
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MateusJSouza/Glassmorphism" alt="Linguagem mais utilizada">
   </a>
 
   <a href="#repository-size">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MateusJSouza/Glassmorphism" alt="Tamanho do repositório"/>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MateusJSouza/Glassmorphism" alt="Tamanho do repositório">
   </a>
 
-  <a href="https://www.codacy.com/gh/MateusJSouza/Glassmorphism/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/Glassmorphism&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/6fd97796eeb849c08753294349a6abfb"/></a>
+  <a href="https://www.codacy.com/gh/MateusJSouza/Glassmorphism/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/Glassmorphism&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/6fd97796eeb849c08753294349a6abfb"></a>
 
 
   <a href="https://github.com/MateusJSouza/Glassmorphism/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/MateusJSouza/Glassmorphism" alt="Issues"/>
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/MateusJSouza/Glassmorphism" alt="Issues">
   </a>
 
   <a href="https://github.com/MateusJSouza/Glassmorphism/graphs/commit-activity">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MateusJSouza/Glassmorphism" alt="Últimos commits">
   </a>
 
-
   <a href="https://github.com/MateusJSouza/Glassmorphism/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/MateusJSouza/Glassmorphism" alt="Licença MIT"/>
+    <img alt="GitHub" src="https://img.shields.io/github/license/MateusJSouza/Glassmorphism" alt="Licença MIT">
   </a>
 </p>
 
