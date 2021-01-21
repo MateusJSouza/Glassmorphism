@@ -6,38 +6,32 @@
   <a href="#language">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MateusJSouza/Glassmorphism" alt="Linguagem mais utilizada"/>
   </a>
-</p>
 
-<p align="center">
   <a href="#repository-size">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/MateusJSouza/Glassmorphism" alt="Tamanho do repositório"/>
   </a>
-</p>
 
-<a href="https://app.codacy.com/project/badge/Grade/6fd97796eeb849c08753294349a6abfb)">
-  <img src="https://www.codacy.com/gh/MateusJSouza/Glassmorphism/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/Glassmorphism&amp;utm_campaign=Badge_Grade"/>
-</a>
+  <a href="https://app.codacy.com/project/badge/Grade/6fd97796eeb849c08753294349a6abfb)">
+    <img src="https://www.codacy.com/gh/MateusJSouza/Glassmorphism/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MateusJSouza/Glassmorphism&amp;utm_campaign=Badge_Grade"/>
+  </a>
 
-<p align="center">
+
   <a href="https://github.com/MateusJSouza/Glassmorphism/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/MateusJSouza/Glassmorphism" alt="Issues"/>
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/MateusJSouza/Glassmorphism/graphs/commit-activity">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/MateusJSouza/Glassmorphism" alt="Últimos commits"/>
   </a>
-</p>
 
-<p align="center">
+
   <a href="https://github.com/MateusJSouza/Glassmorphism/blob/main/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/MateusJSouza/Glassmorphism" alt="Licença MIT"/>
   </a>
 </p>
 
 <h4 align="center">
-  This project was developed by me based on this video 👉🏽 ![Online Tutorials](https://www.youtube.com/watch?v=Q22Tli-D4mw&t=480s);
+  This project was developed by me based on this video 👉🏽 <a href="https://www.youtube.com/watch?v=Q22Tli-D4mw&t=480s">Online Tutorials</a>
 </h4>
 
 <p align="center">
