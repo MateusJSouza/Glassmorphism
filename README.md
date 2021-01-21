@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611192168/glassmorphism_psnz1o.gif" alt="Gif da aplicação rodando">
+  <img src="https://res.cloudinary.com/dx3vxwusq/image/upload/v1611194981/glassmorphism_nlt292.gif" alt="Gif da aplicação rodando">
 </p>
 
 <p align="center">
